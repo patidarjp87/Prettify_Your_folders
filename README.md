@@ -1,0 +1,2 @@
+# Prettify_Your_folders
+  Here is a function named soldier which takes 3 arguments as an input.I have used re module to solve this question. 1st is a path in which do want to capitalize your all file names.If you want to doesn't change any perticular file name then give that file name as an 2nd argument.If you want to doesn't change all files of any perticular extension then give that extension as an 3rd argument. 
